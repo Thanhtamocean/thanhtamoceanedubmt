@@ -1,0 +1,8 @@
+{
+  "name": "Thanh Tâm Ocean Edu BMT",
+  "description": "Thanh Tâm Ocean Edu BMT landing page with registration form",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
